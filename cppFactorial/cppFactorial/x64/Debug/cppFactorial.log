@@ -1,0 +1,5 @@
+﻿  cppFactorial.cpp
+C:\test\other\cpp\cppFactorial\cppFactorial\FactorialLoop.h(8,19): warning C4018: '<=': signed/unsigned mismatch
+  (compiling source file 'cppFactorial.cpp')
+  
+  cppFactorial.vcxproj -> C:\test\other\cpp\cppFactorial\x64\Debug\cppFactorial.exe
